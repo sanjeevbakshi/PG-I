@@ -1,0 +1,3 @@
+
+
+Ex 1. Modify the code given in P1.cpp for a similar random experiment where P(H) = 0.7.

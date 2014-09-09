@@ -15,6 +15,7 @@ t = rand();
 y = (float)t/(float)RAND_MAX;
 
 cout<< y << endl;
+
 if((0 <= y) && (y <= 0.5))
 cout << "Head"<<endl; 
 else
