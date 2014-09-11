@@ -1,4 +1,4 @@
-// Tossing a coin n times
+// Tossing an unbiased coin n times
 
 #include<iostream>
 #include<cstdlib>

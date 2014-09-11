@@ -3,3 +3,6 @@
 Ex 1. Modify the code given in p1.cpp for a similar random experiment where P(H) = 0.7.
 
 Ex 2. Modify the code given in p2.cpp so that the program asks about your choice of probability of Head appearing in a throw.
+
+Ex 3. Modify the code given in p3.cpp so that the program asks about your choice of parameter and number of samples reqired.
+
